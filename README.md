@@ -10,6 +10,12 @@ Una lista di skill per utilizzo giornaliero; utili per risparmiare token e trova
 
 Entrambe si attivano a mano, una volta per sessione, e contengono una tabella di riferimento punteggio · costo per modello e livello di sforzo (Artificial Analysis, novembre 2026).
 
+## Plugin
+
+| Plugin | A cosa serve |
+|---|---|
+| [`genius-pub`](https://github.com/cristianotoni12-beep/genius-pub) | Mappa del progetto, registro delle decisioni e un pannello in sola lettura che spiega il progetto senza toccare il contesto della sessione principale. È un plugin di Claude Code, non una skill: si installa dal suo repository. |
+
 ## Installazione
 
 - **claude.ai:** comprimi la cartella della skill in uno ZIP e caricala da Personalizza → Skill.
